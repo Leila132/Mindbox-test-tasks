@@ -50,7 +50,7 @@ FigureFactory.register_figure("rectangle", Rectangle)
 pip install test-figures-package
 ```
 
-Или для поставки внешним клиентам можно предать файл task_1/src/dist/test_figures_package-0.0.1.tar.gz и станвить с помощью команды:
+Или для поставки внешним клиентам можно передать файл task_1/src/dist/test_figures_package-0.0.1.tar.gz и установить с помощью команды:
 ```
 pip install test_figures_package-0.0.1.tar.gz
 ```
